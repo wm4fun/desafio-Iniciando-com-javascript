@@ -21,7 +21,7 @@ Ex.:
 <body>
   <h1>Exercícios JavaScript</h1>
 
-  <script src="main.js"></script>
+  <script src="main.js"><./script>
 </body>
 </html>
 ```
